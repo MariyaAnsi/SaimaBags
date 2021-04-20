@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SaimaBags</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- LOGO STRING -->
+    <string name="SAIMA">SAIMA</string>
+    <string name="Bags">Bags</string>
+    <!-- NET ISSUE ACTIVITY STRING -->
+    <string name="NO_INTERNET_CONNECTION">NO INTERNET CONNECTION</string>
+    <string name="NET_ISSUE_STRING">Your device is offine and process will not execute further,please check your internet connection and try again.</string>
+    <string name="Check_Network">Check Network</string>
+    <!--LOGIN ACTIVITY STRING  -->
+    <string name="LOGIN_TEXT">Login</string>
+    <string name="EMAIL_ID_TEXT">Email-id</string>
+    <string name="PASSWORD_TEXT">Password</string>
+    <string name="LOGIN_NOW">Login Now</string>
+    <string name="SIGN_UP">Sign-up Now</string>
+    <string name="Forgot_Password">Forgot Password</string>
+    <!--SIGN UP ACTIVITY STRING  -->
+    <string name="SIGNUP">Sign-Up</string>
+    <string name="Username">Username</string>
+    <string name="Phone_no">Phone-no</string>
+    <string name="Re_Enter_Password">Re-Enter Password</string>
+    <string name="Login">Have an Account? Login</string>
+    <!--FORGET PASSWORD ACTIVITY STRING  -->
+    <string name="SIGNU">Sign-Up</string>
+    <string name="Reset_Password">Reset Password</string>
+
+
+</resources>

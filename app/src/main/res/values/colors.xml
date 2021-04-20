@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#446173</color>
+    <color name="pureWhte">#ffffff</color>
+    <color name="colorPrimaryDark">#dac083</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medium">#66ffffff</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="yellow">#f4ee90</color>
+</resources>
